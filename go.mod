@@ -1,3 +1,3 @@
-module github.com/rungao/gomod
+module github.com/rungao/gomod/v2
 
-go 1.18
+go 1.16
